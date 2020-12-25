@@ -1,7 +1,7 @@
 # DATS6450-TimeSeriesAnalysis-EnergyPrediction
 DATS6450 Final individual project for DATS 6450 Time Series Analysis - Fall 2020
 
-"energy.py" is the main project python file. It uses "functions.py" for non-library functions developed. 
+Please refer to the final project report and final project presentation for descriptions, methods, and conclusions. "energy.py" is the main project python file. It uses "functions.py" for non-library functions developed.
 
 NOTES:
 - In the "energy.py" file, the stepwise regression section(line 165) and Holt_Winters sections(lines 493, 496, and 499) take a very long time to run (about an hour each)
